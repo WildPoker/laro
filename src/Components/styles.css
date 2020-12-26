@@ -1,0 +1,7 @@
+.MuiBox-root {
+  border-bottom: 2px solid transparent;
+}
+
+.MuiBox-root:hover {
+  border-bottom: 2px solid #ff1e56;
+}
