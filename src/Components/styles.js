@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: "#cfe8fc",
     height: "80vh",
     margin: "auto",
-    backgroundColor: "transparent",
+
     borderRadius: "20px",
     borderStyle: "solid",
     borderColor: "#ffac41",
