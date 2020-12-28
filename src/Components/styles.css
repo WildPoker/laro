@@ -5,3 +5,11 @@
 .MuiBox-root:hover {
   border-bottom: 2px solid #ff1e56;
 }
+
+.MuiDialog-paper {
+  background-color: white !important;
+  border-radius: 25px !important;
+  border-style: solid !important;
+  border-width: 2px;
+  border-color: #323232 !important;
+}
